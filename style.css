@@ -16,8 +16,17 @@ body {
     border: auto solid rgba(30, 41, 59, 1);
     margin: 1px;
     box-sizing: border-box; 
+    
 }
-
+.hdr{
+  background-color: rgb(15, 46, 9);
+  color: rgb(207, 203, 203);
+  padding: 1px;
+  height: 600px;
+  width: auto;
+  border: auto solid rgba(30, 41, 59, 1);
+  margin: 1px;
+  box-sizing: border-box; }
 
 .logo{
     margin-top: 7px;
@@ -105,7 +114,7 @@ body {
   .random{ 
     display:flex; 
     justify-content:center; 
-    margin-top: 200px;
+    margin-top: 180px;
     color:rgb(15, 46, 9);
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
@@ -143,7 +152,7 @@ body {
 .containers{ 
     display:flex;
     justify-content: center;
-    margin-top:20px;
+    margin-top:10px;
     gap:100px;
     margin-left:90px;
     
